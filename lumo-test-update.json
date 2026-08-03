@@ -1,0 +1,11 @@
+{
+  "versionName": "1.0.27",
+  "versionCode": 2033,
+  "minimumSupportedVersionCode": 2033,
+  "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test.apk",
+  "releaseNotes": {
+    "en": "Test channel build with GitHub update checks and versioned APK filenames.",
+    "zh_CN": "测试渠道版本：使用 GitHub 检查更新，并为 APK 文件名加入版本号。",
+    "zh_TW": "測試渠道版本：使用 GitHub 檢查更新，並為 APK 檔名加入版本號。"
+  }
+}
