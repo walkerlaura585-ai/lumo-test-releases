@@ -1,11 +1,11 @@
 {
-  "versionName": "1.0.27",
-  "versionCode": 2033,
+  "versionName": "1.0.28",
+  "versionCode": 2034,
   "minimumSupportedVersionCode": 2033,
   "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test.apk",
   "releaseNotes": {
-    "en": "Test channel build with GitHub update checks and versioned APK filenames.",
-    "zh_CN": "测试渠道版本：使用 GitHub 检查更新，并为 APK 文件名加入版本号。",
-    "zh_TW": "測試渠道版本：使用 GitHub 檢查更新，並為 APK 檔名加入版本號。"
+    "en": "Adds explicit consent and status tracking for deleting completed task messages from your own WhatsApp chat.",
+    "zh_CN": "新增明确同意开关和状态跟踪，可在任务完成后仅从自己的 WhatsApp 聊天中清理任务消息。",
+    "zh_TW": "新增明確同意開關和狀態追蹤，可在任務完成後僅從自己的 WhatsApp 聊天中清理任務訊息。"
   }
 }
