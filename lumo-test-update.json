@@ -1,11 +1,11 @@
 {
-  "versionName": "1.0.28",
-  "versionCode": 2034,
-  "minimumSupportedVersionCode": 2033,
+  "versionName": "1.0.30",
+  "versionCode": 2036,
+  "minimumSupportedVersionCode": 2036,
   "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test.apk",
   "releaseNotes": {
-    "en": "Adds explicit consent and status tracking for deleting completed task messages from your own WhatsApp chat.",
-    "zh_CN": "新增明确同意开关和状态跟踪，可在任务完成后仅从自己的 WhatsApp 聊天中清理任务消息。",
-    "zh_TW": "新增明確同意開關和狀態追蹤，可在任務完成後僅從自己的 WhatsApp 聊天中清理任務訊息。"
+    "en": "Test build 1.0.30 for the current test environment, including the current Temporary Task Contacts behavior and WhatsApp task flow updates.",
+    "zh_CN": "面向当前测试环境的 1.0.30 测试构建，包含 Temporary Task Contacts 当前行为和 WhatsApp 任务流程更新。",
+    "zh_TW": "面向目前測試環境的 1.0.30 測試建置，包含 Temporary Task Contacts 目前行為和 WhatsApp 任務流程更新。"
   }
 }
