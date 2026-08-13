@@ -1,11 +1,11 @@
 {
-  "versionName": "1.0.30",
-  "versionCode": 2036,
-  "minimumSupportedVersionCode": 2036,
+  "versionName": "1.0.36",
+  "versionCode": 2042,
+  "minimumSupportedVersionCode": 2042,
   "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test.apk",
   "releaseNotes": {
-    "en": "Test build 1.0.30 for the current test environment, including the current Temporary Task Contacts behavior and WhatsApp task flow updates.",
-    "zh_CN": "面向当前测试环境的 1.0.30 测试构建，包含 Temporary Task Contacts 当前行为和 WhatsApp 任务流程更新。",
-    "zh_TW": "面向目前測試環境的 1.0.30 測試建置，包含 Temporary Task Contacts 目前行為和 WhatsApp 任務流程更新。"
+    "en": "Test build 1.0.36 with app resume stability, cross-market supplier tasks, neutral task-result messaging, notification delivery foundations, and universal Android ABI support.",
+    "zh_CN": "测试版本 1.0.36，包含前后台恢复稳定性、供应商任务跨市场领取、中性任务结果文案、任务通知基础能力和 Android 通用 ABI 支持。",
+    "zh_TW": "測試版本 1.0.36，包含前後台恢復穩定性、供應商任務跨市場領取、中性任務結果文案、任務通知基礎能力和 Android 通用 ABI 支援。"
   }
 }
