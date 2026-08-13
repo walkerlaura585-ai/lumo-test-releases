@@ -1,11 +1,11 @@
 {
-  "versionName": "1.0.37",
-  "versionCode": 2043,
-  "minimumSupportedVersionCode": 2043,
+  "versionName": "1.0.38",
+  "versionCode": 2044,
+  "minimumSupportedVersionCode": 2044,
   "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test.apk",
   "releaseNotes": {
-    "en": "Test build 1.0.37 with app resume stability, cross-market supplier tasks, neutral task-result messaging, notification delivery foundations, and a smaller ARM64 download.",
-    "zh_CN": "测试版本 1.0.37，包含前后台恢复稳定性、供应商任务跨市场领取、中性任务结果文案、任务通知基础能力和更小的 ARM64 下载包。",
-    "zh_TW": "測試版本 1.0.37，包含前後台恢復穩定性、供應商任務跨市場領取、中性任務結果文案、任務通知基礎能力和更小的 ARM64 下載包。"
+    "en": "Test build 1.0.38 installs alongside production as Lumo Test. ARM64 is the default download and ARMv7 is available as a compatibility package.",
+    "zh_CN": "测试版本 1.0.38 可作为 Lumo Test 与生产版同时安装；默认提供 ARM64 下载，并附带 ARMv7 兼容包。",
+    "zh_TW": "測試版本 1.0.38 可作為 Lumo Test 與生產版同時安裝；預設提供 ARM64 下載，並附帶 ARMv7 相容包。"
   }
 }
