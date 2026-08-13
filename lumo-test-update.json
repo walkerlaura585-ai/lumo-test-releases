@@ -1,11 +1,11 @@
 {
-  "versionName": "1.0.38",
-  "versionCode": 2044,
-  "minimumSupportedVersionCode": 2044,
+  "versionName": "1.0.39",
+  "versionCode": 2045,
+  "minimumSupportedVersionCode": 2045,
   "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test.apk",
   "releaseNotes": {
-    "en": "Test build 1.0.38 installs alongside production as Lumo Test. ARM64 is the default download and ARMv7 is available as a compatibility package.",
-    "zh_CN": "测试版本 1.0.38 可作为 Lumo Test 与生产版同时安装；默认提供 ARM64 下载，并附带 ARMv7 兼容包。",
-    "zh_TW": "測試版本 1.0.38 可作為 Lumo Test 與生產版同時安裝；預設提供 ARM64 下載，並附帶 ARMv7 相容包。"
+    "en": "Lumo Test 1.0.39 installs alongside production and enables Firebase system notifications using the dedicated test Android client.",
+    "zh_CN": "Lumo Test 1.0.39 可与生产版同时安装，并使用独立测试 Android Client 开启 Firebase 系统通知。",
+    "zh_TW": "Lumo Test 1.0.39 可與生產版同時安裝，並使用獨立測試 Android Client 開啟 Firebase 系統通知。"
   }
 }
