@@ -1,11 +1,24 @@
 {
-  "versionName": "1.0.39",
-  "versionCode": 2045,
-  "minimumSupportedVersionCode": 2045,
+  "versionName": "1.0.43",
+  "versionCode": 2049,
+  "minimumSupportedVersionCode": 2049,
   "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test.apk",
+  "apkSha256": "519036595585a7c243cdc579bdb3f1266f3f31dc308aadbcbb029fed2b4ead40",
+  "apkVariants": {
+    "arm64-v8a": {
+      "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test.apk",
+      "apkSha256": "519036595585a7c243cdc579bdb3f1266f3f31dc308aadbcbb029fed2b4ead40",
+      "sizeBytes": 39932784
+    },
+    "armeabi-v7a": {
+      "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test-32.apk",
+      "apkSha256": "16cf1e9a165e3a685458c82009025dc138048fe8a231c522233c705ad4c5caba",
+      "sizeBytes": 39932794
+    }
+  },
   "releaseNotes": {
-    "en": "Lumo Test 1.0.39 installs alongside production and enables Firebase system notifications using the dedicated test Android client.",
-    "zh_CN": "Lumo Test 1.0.39 可与生产版同时安装，并使用独立测试 Android Client 开启 Firebase 系统通知。",
-    "zh_TW": "Lumo Test 1.0.39 可與生產版同時安裝，並使用獨立測試 Android Client 開啟 Firebase 系統通知。"
+    "en": "Lumo Test 1.0.43 adds separate ARM64 and ARMv7 downloads, clearer WhatsApp task feedback, and withdrawal flow improvements.",
+    "zh_CN": "Lumo Test 1.0.43 新增 ARM64 与 ARMv7 独立下载，并优化 WhatsApp 任务反馈和提现流程。",
+    "zh_TW": "Lumo Test 1.0.43 新增 ARM64 與 ARMv7 獨立下載，並優化 WhatsApp 任務回饋和提現流程。"
   }
 }
