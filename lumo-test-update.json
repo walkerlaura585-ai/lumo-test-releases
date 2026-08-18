@@ -1,24 +1,24 @@
 {
-  "versionName": "1.0.43",
-  "versionCode": 2049,
-  "minimumSupportedVersionCode": 2049,
+  "versionName": "1.0.45",
+  "versionCode": 2051,
+  "minimumSupportedVersionCode": 2051,
   "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test.apk",
-  "apkSha256": "519036595585a7c243cdc579bdb3f1266f3f31dc308aadbcbb029fed2b4ead40",
+  "apkSha256": "49f6064631cfa37dd92451b67b45504b23652babd95e22a66d1a29025a059a25",
   "apkVariants": {
     "arm64-v8a": {
       "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test.apk",
-      "apkSha256": "519036595585a7c243cdc579bdb3f1266f3f31dc308aadbcbb029fed2b4ead40",
-      "sizeBytes": 39932784
+      "apkSha256": "49f6064631cfa37dd92451b67b45504b23652babd95e22a66d1a29025a059a25",
+      "sizeBytes": 39998628
     },
     "armeabi-v7a": {
       "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test-32.apk",
-      "apkSha256": "16cf1e9a165e3a685458c82009025dc138048fe8a231c522233c705ad4c5caba",
-      "sizeBytes": 39932794
+      "apkSha256": "065b8a51e9a7178fff1f7a49f0fd9d6ceb2e3b8a905a6f068fd7d7b659e6013b",
+      "sizeBytes": 39998638
     }
   },
   "releaseNotes": {
-    "en": "Lumo Test 1.0.43 adds separate ARM64 and ARMv7 downloads, clearer WhatsApp task feedback, and withdrawal flow improvements.",
-    "zh_CN": "Lumo Test 1.0.43 新增 ARM64 与 ARMv7 独立下载，并优化 WhatsApp 任务反馈和提现流程。",
-    "zh_TW": "Lumo Test 1.0.43 新增 ARM64 與 ARMv7 獨立下載，並優化 WhatsApp 任務回饋和提現流程。"
+    "en": "Lumo Test 1.0.45 keeps healthy linked WhatsApp accounts available for tasks while companion reachout limits are observed.",
+    "zh_CN": "Lumo Test 1.0.45 将关联设备的新聊天限制降级为观测信号，健康在线账号仍可正常做任务。",
+    "zh_TW": "Lumo Test 1.0.45 將關聯裝置的新聊天限制降級為觀測訊號，健康在線帳號仍可正常做任務。"
   }
 }
