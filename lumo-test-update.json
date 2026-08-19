@@ -1,24 +1,24 @@
 {
-  "versionName": "1.0.46",
-  "versionCode": 2052,
-  "minimumSupportedVersionCode": 2052,
+  "versionName": "1.0.47",
+  "versionCode": 2053,
+  "minimumSupportedVersionCode": 2053,
   "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test.apk",
-  "apkSha256": "91bc72f2eee9b998ae679cc81f6ef6534279caef43f9ba304403334a3efe6378",
+  "apkSha256": "f577159cd73f6965f0e0af2b09026d664e920beb7924eaaab55de4798afa1f96",
   "apkVariants": {
     "arm64-v8a": {
       "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test.apk",
-      "apkSha256": "91bc72f2eee9b998ae679cc81f6ef6534279caef43f9ba304403334a3efe6378",
+      "apkSha256": "f577159cd73f6965f0e0af2b09026d664e920beb7924eaaab55de4798afa1f96",
       "sizeBytes": 42617428
     },
     "armeabi-v7a": {
       "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test-32.apk",
-      "apkSha256": "c1a4e8a6c76cd17423cab70ee53e2329f868901af217f59c38f0f9f2988868e1",
+      "apkSha256": "cc936bd939a620e5b75aadc87f04817c4db8dbabffddf6c3a1fdc7da66270b7e",
       "sizeBytes": 42617438
     }
   },
   "releaseNotes": {
-    "en": "Lumo Test 1.0.46 adds the redesigned home, task availability, unified earnings, invitation and team commission pages, notifications, and a simplified INR withdrawal flow. Tutorial video playback is deferred; the four-step text guide remains available.",
-    "zh_CN": "Lumo Test 1.0.46 新增改版首页、任务时间预告、统一收益、邀请与团队佣金页面、通知中心和简化的 INR 提现流程。教学视频播放延期，四步文字教程仍可使用。",
-    "zh_TW": "Lumo Test 1.0.46 新增改版首頁、任務時間預告、統一收益、邀請與團隊佣金頁面、通知中心和簡化的 INR 提現流程。教學影片播放延期，四步文字教學仍可使用。"
+    "en": "Lumo Test 1.0.47 makes the home wallet, task and tutorial entries more compact, and aligns the invitation and team commission actions across languages. Tutorial video playback remains deferred; the four-step text guide is available.",
+    "zh_CN": "Lumo Test 1.0.47 收紧首页钱包、今日任务和新手教学布局，并修复邀请奖励与团队佣金操作区在不同语言下不对齐的问题。教学视频播放仍延期，四步文字教程可正常使用。",
+    "zh_TW": "Lumo Test 1.0.47 收緊首頁錢包、今日任務和新手教學佈局，並修復邀請獎勵與團隊佣金操作區在不同語言下不對齊的問題。教學影片播放仍延期，四步文字教學可正常使用。"
   }
 }
