@@ -1,24 +1,24 @@
 {
-  "versionName": "1.0.45",
-  "versionCode": 2051,
-  "minimumSupportedVersionCode": 2051,
+  "versionName": "1.0.46",
+  "versionCode": 2052,
+  "minimumSupportedVersionCode": 2052,
   "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test.apk",
-  "apkSha256": "49f6064631cfa37dd92451b67b45504b23652babd95e22a66d1a29025a059a25",
+  "apkSha256": "91bc72f2eee9b998ae679cc81f6ef6534279caef43f9ba304403334a3efe6378",
   "apkVariants": {
     "arm64-v8a": {
       "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test.apk",
-      "apkSha256": "49f6064631cfa37dd92451b67b45504b23652babd95e22a66d1a29025a059a25",
-      "sizeBytes": 39998628
+      "apkSha256": "91bc72f2eee9b998ae679cc81f6ef6534279caef43f9ba304403334a3efe6378",
+      "sizeBytes": 42617428
     },
     "armeabi-v7a": {
       "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test-32.apk",
-      "apkSha256": "065b8a51e9a7178fff1f7a49f0fd9d6ceb2e3b8a905a6f068fd7d7b659e6013b",
-      "sizeBytes": 39998638
+      "apkSha256": "c1a4e8a6c76cd17423cab70ee53e2329f868901af217f59c38f0f9f2988868e1",
+      "sizeBytes": 42617438
     }
   },
   "releaseNotes": {
-    "en": "Lumo Test 1.0.45 keeps healthy linked WhatsApp accounts available for tasks while companion reachout limits are observed.",
-    "zh_CN": "Lumo Test 1.0.45 将关联设备的新聊天限制降级为观测信号，健康在线账号仍可正常做任务。",
-    "zh_TW": "Lumo Test 1.0.45 將關聯裝置的新聊天限制降級為觀測訊號，健康在線帳號仍可正常做任務。"
+    "en": "Lumo Test 1.0.46 adds the redesigned home, task availability, unified earnings, invitation and team commission pages, notifications, and a simplified INR withdrawal flow. Tutorial video playback is deferred; the four-step text guide remains available.",
+    "zh_CN": "Lumo Test 1.0.46 新增改版首页、任务时间预告、统一收益、邀请与团队佣金页面、通知中心和简化的 INR 提现流程。教学视频播放延期，四步文字教程仍可使用。",
+    "zh_TW": "Lumo Test 1.0.46 新增改版首頁、任務時間預告、統一收益、邀請與團隊佣金頁面、通知中心和簡化的 INR 提現流程。教學影片播放延期，四步文字教學仍可使用。"
   }
 }
