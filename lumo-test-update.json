@@ -1,24 +1,24 @@
 {
-  "versionName": "1.0.47",
-  "versionCode": 2053,
-  "minimumSupportedVersionCode": 2053,
+  "versionName": "1.0.48",
+  "versionCode": 2054,
+  "minimumSupportedVersionCode": 2054,
   "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test.apk",
-  "apkSha256": "f577159cd73f6965f0e0af2b09026d664e920beb7924eaaab55de4798afa1f96",
+  "apkSha256": "1cca536613978316b6df5b0ed0042f14f41638f210a4df921579116d7728ca47",
   "apkVariants": {
     "arm64-v8a": {
       "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test.apk",
-      "apkSha256": "f577159cd73f6965f0e0af2b09026d664e920beb7924eaaab55de4798afa1f96",
-      "sizeBytes": 42617428
+      "apkSha256": "1cca536613978316b6df5b0ed0042f14f41638f210a4df921579116d7728ca47",
+      "sizeBytes": 44336904
     },
     "armeabi-v7a": {
       "apkUrl": "https://github.com/walkerlaura585-ai/lumo-test-releases/releases/latest/download/lumo-test-32.apk",
-      "apkSha256": "cc936bd939a620e5b75aadc87f04817c4db8dbabffddf6c3a1fdc7da66270b7e",
-      "sizeBytes": 42617438
+      "apkSha256": "03c2bbd1387c20193c300bc1491932c72fb20cd3b4a36271e4049a2076d667c3",
+      "sizeBytes": 42617694
     }
   },
   "releaseNotes": {
-    "en": "Lumo Test 1.0.47 makes the home wallet, task and tutorial entries more compact, and aligns the invitation and team commission actions across languages. Tutorial video playback remains deferred; the four-step text guide is available.",
-    "zh_CN": "Lumo Test 1.0.47 收紧首页钱包、今日任务和新手教学布局，并修复邀请奖励与团队佣金操作区在不同语言下不对齐的问题。教学视频播放仍延期，四步文字教程可正常使用。",
-    "zh_TW": "Lumo Test 1.0.47 收緊首頁錢包、今日任務和新手教學佈局，並修復邀請獎勵與團隊佣金操作區在不同語言下不對齊的問題。教學影片播放仍延期，四步文字教學可正常使用。"
+    "en": "Lumo Test 1.0.48 adds upcoming task previews, includes the task tutorial video, and clarifies that Lumo prepares WhatsApp content but never presses Send.",
+    "zh_CN": "Lumo Test 1.0.48 新增未来任务预览和新手教学视频，并明确 Lumo 只准备 WhatsApp 内容、不会代替用户点击发送。",
+    "zh_TW": "Lumo Test 1.0.48 新增未來任務預覽和新手教學影片，並明確 Lumo 只準備 WhatsApp 內容、不會代替使用者點擊傳送。"
   }
 }
